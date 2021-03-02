@@ -1,5 +1,9 @@
 ### How you doin'? 🤗
 
+My goal is to collaborate with disruptive companies that work with the latest technologies to promote true changes in society.
+
+📫 How to reach me: [all my links are here](https://linktr.ee/rflpazini)
+
 <!--
 **rflpazini/rflpazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
