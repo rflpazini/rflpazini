@@ -1,9 +1,13 @@
 ### How you doin'? 🤗
 
-My goal is to collaborate with disruptive companies that work with the latest technologies to promote true changes in society.
+My goal is to collaborate with forward-thinking companies that leverage cutting-edge technologies to drive meaningful, lasting change in society.
 
-📫 How to reach me: [all my links are here](https://linktr.ee/rflpazini)
+⚡ Fun fact: I’m not just into software engineering and tech, I’m also a huge coffee enthusiast, 3D printing nerd, and I’ve got a thing for the classic VW Beetle. When I’m not coding or scaling apps, I’m probably experimenting with new coffee brewing methods or printing out some cool miniatures. Oh, and I somehow manage to balance all that with creating content to help other developers level up their skills. Tech, coffee, 3D printing, and vintage cars—what’s not to love?
 
+📫 How to reach me: [rflpazini.com](https://rflpazini.com)
+
+
+    
 <!--
 **rflpazini/rflpazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
