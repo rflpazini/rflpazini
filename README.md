@@ -16,7 +16,6 @@ I build backend systems with Go, Java, and distributed architectures. I write ab
 
 #### Current focus
 
-- Staff+ engineering path — cross-team technical leadership
 - MCP tooling for AI workflows ([mcp-api-gateway](https://github.com/rflpazini/mcp-api-gateway))
 - Obsidian plugin development ([obsidian-authorship](https://github.com/rflpazini/obsidian-authorship))
 
