@@ -1,24 +1,25 @@
-### How you doin'? 🤗
+### Hey, I'm Rafael Pazini
 
-My goal is to collaborate with forward-thinking companies that leverage cutting-edge technologies to drive meaningful, lasting change in society.
+**Senior Software Engineer** at Pluto TV (Paramount) · **Docker Captain** · Content Creator
 
-⚡ Fun fact: I’m not just into software engineering and tech—I'm also a **Docker Captain**, a huge coffee enthusiast, a 3D printing nerd, and I’ve got a thing for the classic VW Beetle. When I’m not coding or scaling apps, I’m probably experimenting with new coffee brewing methods, printing out some cool miniatures, or sharing insights to help other developers level up their skills. Tech, Docker, coffee, 3D printing, and vintage cars—what’s not to love?
+I build backend systems with Go, Java, and distributed architectures. I write about what I learn and share it at conferences and on [dev.to](https://dev.to/rflpazini).
 
-📫 How to reach me: [rflpazini.com](https://rflpazini.com)
+#### What I work with
 
+`Go` `Java` `Docker` `Kubernetes` `Kafka` `MongoDB` `Redis` `Terraform` `AWS` `OpenTelemetry`
 
-    
-<!--
-**rflpazini/rflpazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Writing & Talks
 
-Here are some ideas to get you started:
+- 31+ technical articles on [dev.to/rflpazini](https://dev.to/rflpazini) — Docker, Go, distributed systems
+- Conference speaker — The Developers Conference (TDC)
+- Brand: **The Code Artisan** — *Create. Share. Repeat.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current focus
+
+- Staff+ engineering path — cross-team technical leadership
+- MCP tooling for AI workflows ([mcp-api-gateway](https://github.com/rflpazini/mcp-api-gateway))
+- Obsidian plugin development ([obsidian-authorship](https://github.com/rflpazini/obsidian-authorship))
+
+#### Find me
+
+[rflpazini.com](https://rflpazini.com) · [dev.to](https://dev.to/rflpazini) · [LinkedIn](https://linkedin.com/in/rflpazini) · [X/Twitter](https://twitter.com/rflpazini)
